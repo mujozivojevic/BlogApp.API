@@ -1,0 +1,47 @@
+{
+  "blogPost": {
+    "title": "Augmented Reality iOS Application",
+    "description": "Rubicon Software Development and Gazzda furniture are proud to launch an augmented reality app.",
+    "body": "The app is simple to use, and will help you decide on your best furniture fit.",
+    "tags": [
+      "iOS", 
+       "AR"
+    ]
+  }
+}
+
+{
+  "blogPost": {
+    "title": "Augmented Reality iOS Application 2",
+    "description": "Rubicon Software Development and Gazzda furniture are proud to launch an augmented reality app.",
+    "body": "The app is simple to use, and will help you decide on your best furniture fit.",
+    "tags": [
+    "iOS", "AR", "Gazzda"
+    ]
+  }
+}
+
+{
+  "blogPost": {
+    "title": "JWT Authentication",
+    "description": "JWT Authentication In ASP.NET Core",
+    "body": "JWT (JSON web token) has become more and more popular in web development. It is an open standard which allows transmitting data between parties as a JSON object in a secure and compact way",
+    "tags": [
+      "Core", 
+      "Authentication",
+      "JWT"
+    
+    ]
+  }
+}
+
+{
+  "blogPost": {
+    "title": "Internet Trends 2018",
+    "description": "Ever wonder how?",
+    "body": "An opinionated commentary, of the most important presentation of the year",
+    "tags": [
+     "trends", "innovation", "2018"
+    ]
+  }
+}
