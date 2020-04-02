@@ -8,6 +8,8 @@
 
 - name of database : blogapp.db  PATH : BlogPost.API/blogapp.db
 
+- There are some initial data in database
+
 - Application is tested in SWAGGER
 
 - PACKAGES in this project :
